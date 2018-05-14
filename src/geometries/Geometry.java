@@ -1,12 +1,12 @@
-package geometries;
+package main.geometries;
 
 import java.awt.Color;
 import java.util.List;
 
-import primitives.Material;
-import primitives.Point3D;
-import primitives.Ray;
-import primitives.Vector;
+import main.primitives.Material;
+import main.primitives.Point3D;
+import main.primitives.Ray;
+import main.primitives.Vector;
 
 public abstract class Geometry {
 
