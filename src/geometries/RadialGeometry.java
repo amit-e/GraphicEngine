@@ -1,6 +1,6 @@
-package main.geometries;
+package geometries;
 
-public abstract class RadialGeometry extends Geometry {
+public abstract class RadialGeometry extends main.geometries.Geometry {
 
 	protected double _radius;
 	

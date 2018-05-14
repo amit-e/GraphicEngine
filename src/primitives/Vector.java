@@ -1,8 +1,11 @@
 package main.primitives;
 
+import main.primitives.Point3D;
+import main.primitives.Coordinate;
+
 public class Vector implements Comparable<Vector>{
 
-	private Point3D _head;
+	private main.primitives.Point3D _head;
 	
 	// ***************** Constructors ********************** // 
 	

@@ -1,6 +1,9 @@
 package main.primitives;
 
-public class Point3D extends Point2D {
+import main.primitives.Point2D;
+import main.primitives.Coordinate;
+
+public class Point3D extends main.primitives.Point2D {
 
 	private Coordinate _z;
 	

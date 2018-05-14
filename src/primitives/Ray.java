@@ -1,4 +1,6 @@
 package main.primitives;
+import main.primitives.Point3D;
+import main.primitives.Vector;
 
 public class Ray {
 

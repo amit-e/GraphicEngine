@@ -1,10 +1,11 @@
 package main.geometries;
 
-import java.util.List;
-
+import geometries.RadialGeometry;
 import main.primitives.Point3D;
 import main.primitives.Ray;
 import main.primitives.Vector;
+
+import java.util.List;
 
 public class Cylinder extends RadialGeometry {
 

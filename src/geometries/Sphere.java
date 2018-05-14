@@ -1,14 +1,15 @@
 package main.geometries;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
-
+import geometries.RadialGeometry;
 import main.primitives.Point3D;
 import main.primitives.Ray;
 import main.primitives.Vector;
 
-public class Sphere extends RadialGeometry{
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+
+public class Sphere extends RadialGeometry {
 
 	private Point3D _center;
 
